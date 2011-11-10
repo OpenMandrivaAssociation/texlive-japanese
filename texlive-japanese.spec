@@ -1,12 +1,12 @@
-# revision 24424
+# revision 24533
 # category Package
 # catalog-ctan /language/japanese/japanese
-# catalog-date 2007-12-26 19:46:25 +0100
+# catalog-date 2011-10-29 13:37:49 +0200
 # catalog-license lppl
 # catalog-version 1.3
 Name:		texlive-japanese
 Version:	1.3
-Release:	1
+Release:	2
 Summary:	A substitute for a babel package for Japanese
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/japanese/japanese
