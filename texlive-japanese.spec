@@ -52,3 +52,20 @@ a Japanese-enabled TeX system, such as pTeX or jTeX.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3-3
++ Revision: 752894
+- Rebuild to reduce used resources
+
+* Thu Nov 10 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.3-2
++ Revision: 729666
+- texlive-japanese
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.3-1
++ Revision: 718749
+- texlive-japanese
+- texlive-japanese
+- texlive-japanese
+
