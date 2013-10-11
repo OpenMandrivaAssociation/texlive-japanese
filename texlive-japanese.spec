@@ -1,12 +1,12 @@
-# revision 24533
+# revision 30855
 # category Package
 # catalog-ctan /language/japanese/japanese
-# catalog-date 2011-10-29 13:37:49 +0200
+# catalog-date 2012-02-06 14:44:00 +0100
 # catalog-license lppl
 # catalog-version 1.3
 Name:		texlive-japanese
 Version:	1.3
-Release:	3
+Release:	4
 Summary:	A substitute for a babel package for Japanese
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/japanese/japanese
@@ -52,20 +52,3 @@ a Japanese-enabled TeX system, such as pTeX or jTeX.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3-3
-+ Revision: 752894
-- Rebuild to reduce used resources
-
-* Thu Nov 10 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.3-2
-+ Revision: 729666
-- texlive-japanese
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.3-1
-+ Revision: 718749
-- texlive-japanese
-- texlive-japanese
-- texlive-japanese
-
