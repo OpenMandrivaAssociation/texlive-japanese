@@ -9,7 +9,7 @@ Version:	1.3
 Release:	14
 Summary:	A substitute for a babel package for Japanese
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/language/japanese/japanese
+URL:		https://www.ctan.org/tex-archive/language/japanese/japanese
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/japanese.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/japanese.doc.tar.xz
